@@ -1,0 +1,27 @@
+🔵 Starting → Chrome on Windows 11
+🔵 Starting → Firefox on Windows 10
+🔵 Starting → Safari on macOS Ventura
+🔵 Starting → iPhone 14 Test
+🔵 Starting → Galaxy S23 Test
+
+   ✓ Loaded El País homepage
+   ✓ Title: EL PAÍS: el periódico global
+🔴 Finished → Chrome on Windows 11
+
+   ✓ Loaded El País homepage
+   ✓ Title: EL PAÍS: el periódico global
+🔴 Finished → Firefox on Windows 10
+
+   ✓ Loaded El País homepage
+   ✓ Title: EL PAÍS: el periódico global
+🔴 Finished → Safari on macOS Ventura
+
+   ✓ Loaded El País homepage
+   ✓ Title: EL PAÍS: el periódico global
+🔴 Finished → iPhone 14 Test
+
+   ✓ Loaded El País homepage
+   ✓ Title: EL PAÍS: el periódico global
+🔴 Finished → Galaxy S23 Test
+
+🎉 All BrowserStack tests completed successfully.
