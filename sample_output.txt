@@ -1,0 +1,104 @@
+✓ Cookie popup accepted on homepage.
+Navigated to Opinión section.
+Found 5 valid Opinion article links.
+
+==============================
+  ARTICLE 1
+==============================
+URL: https://elpais.com/opinion/2026-02-26/mazon-mas-cerca-del-juzgado.html
+
+--- TITLE (Spanish) ---
+Mazón, más cerca del juzgado
+
+--- TITLE (English) ---
+Mazón, closer to the court
+
+--- CONTENT (Spanish) ---
+La jueza de la dana aboca al expresidente valenciano a la imputación que ha tratado de evitar manteniéndose aforado
+La decisión de la jueza de Catarroja (Valencia) que investiga la dana...
+[Content truncated]
+
+✓ Image saved: article_1.jpg
+✓ Headline image saved: article_1.jpg
+
+==============================
+  ARTICLE 2
+==============================
+URL: https://elpais.com/opinion/2026-02-26/mitin-trumpista-sobre-el-estado-de-la-union.html
+
+--- TITLE (Spanish) ---
+Mitin trumpista sobre el estado de la Unión
+
+--- TITLE (English) ---
+Trump rally on the State of the Union
+
+--- CONTENT (Spanish) ---
+El presidente republicano convierte un discurso solemne ante el Congreso en un espectáculo partidista...
+[Content truncated]
+
+✓ Image saved: article_2.jpg
+✓ Headline image saved: article_2.jpg
+
+==============================
+  ARTICLE 3
+==============================
+URL: https://elpais.com/opinion/2026-02-26/como-alimentar-a-la-ultraderecha.html
+
+--- TITLE (Spanish) ---
+Cómo alimentar a la ultraderecha
+
+--- TITLE (English) ---
+How to feed the far right
+
+--- CONTENT (Spanish) ---
+En el documento del PP para su negociación con Vox hay más asunciones...
+[Content truncated]
+
+✓ Image saved: article_3.jpg
+✓ Headline image saved: article_3.jpg
+
+==============================
+  ARTICLE 4
+==============================
+URL: https://elpais.com/opinion/2026-02-26/35-anos-del-fin-de-la-urss-la-causa-perdida-de-los-tres-misioneros-eslavos.html
+
+--- TITLE (Spanish) ---
+35 años del fin de la URSS: la causa perdida de los “tres misioneros eslavos”
+
+--- TITLE (English) ---
+35 years since the end of the USSR: the lost cause of the “three Slavic missionaries”
+
+--- CONTENT (Spanish) ---
+La guerra de Ucrania es una de las catástrofes...
+[Content truncated]
+
+✓ Image saved: article_4.jpg
+✓ Headline image saved: article_4.jpg
+
+==============================
+  ARTICLE 5
+==============================
+URL: https://elpais.com/opinion/2026-02-23/senegal-35-mm.html
+
+--- TITLE (Spanish) ---
+‘Senegal-35 mm’
+
+--- TITLE (English) ---
+'Senegal-35 mm'
+
+--- CONTENT (Spanish) ---
+[Content truncated]
+
+✓ Image saved: article_5.jpg
+✓ Headline image saved: article_5.jpg
+
+==============================
+ PHASE 4: TRANSLATED TITLE WORD ANALYSIS
+==============================
+
+WORD           COUNT
+-------------------------
+the            8
+of             3
+
+Scraping completed successfully.
