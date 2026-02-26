@@ -1,0 +1,56 @@
+# ============================
+# Python / General
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ============================
+# Project-specific ignores
+# ============================
+
+# Output folder for downloaded images
+article_images/
+
+# BrowserStack secrets
+browserstack.key
+browserstack_username.txt
+browserstack_accesskey.txt
+
+# Your local config files (if any)
+config.json
+secrets.json
+
+# ============================
+# Selenium WebDriver artifacts
+# ============================
+chromedriver*
+geckodriver*
+msedgedriver*
+*.exe
+*.zip
+
+# ============================
+# Environment & dependency caches
+# ============================
+pip-wheel-metadata/
+pip-cache/
+.cache/
