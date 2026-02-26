@@ -127,6 +127,8 @@ python run_browserstack.py
 * Translations are performed through the public Google Translate endpoint.
 * No API keys are included in the repository.
 * Built and tested on Python 3.12.10.
+* PFA 'Test Report for el pais site test001.pdf' that has all the details of the test conducted by me.
+
 
 ---
 
@@ -138,3 +140,4 @@ This was a meaningful project, and I learned a lot about scraping dynamic websit
 Thank you BrowserStack Team!
 
 ---
+
